@@ -1,2 +1,2 @@
 # copy-repo-test
-copy-repository-source
+source-repository
